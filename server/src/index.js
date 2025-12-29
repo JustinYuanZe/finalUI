@@ -25,7 +25,8 @@ const app = new Elysia()
       'http://localhost:5173',
       'http://localhost:5174',
       'http://localhost:1409',
-      'http://localhost:3000'
+      'http://localhost:3000',
+      'https://newnew-ui-nd7s.vercel.app'
     ],
     credentials: true,
     allowedHeaders: ['Content-Type', 'Authorization'],
